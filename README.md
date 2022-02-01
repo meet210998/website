@@ -10,4 +10,6 @@ edit in update-readme
 
 update main before rebase
 
-develop file 
+develop file
+
+changes in readme for tag
