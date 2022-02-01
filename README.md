@@ -13,3 +13,8 @@ update main before rebase
 develop file
 
 changes in readme for tag
+
+
+## Getting Started 
+
+Added getting started
